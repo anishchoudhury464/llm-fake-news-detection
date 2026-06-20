@@ -231,9 +231,9 @@ Possible future improvements include:
 
 ## Team Members
 
-- Member 1
-- Member 2
-- Member 3
+- Anish Choudhury
+- Krishna Sindhu Karri
+- Praseeda Saripalle
 
 ---
 

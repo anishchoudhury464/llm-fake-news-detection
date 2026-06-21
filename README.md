@@ -100,6 +100,25 @@ fake-news-detection-flan-t5/
 
 ---
 
+## Dataset
+
+The datasets used in this project are publicly available and can be downloaded from Kaggle.
+
+After downloading,
+
+Place the following files inside
+
+data/
+
+├── Fake.csv
+├── True.csv
+
+Running 01_Data_Preprocessing.ipynb will automatically generate
+
+clean_news.csv
+
+---
+
 ## Notebook Description
 
 ### 01_Data_Preprocessing.ipynb
@@ -209,6 +228,7 @@ Execute the notebooks in the following order:
 4. FLAN-T5 Fine-Tuning
 
 ---
+
 
 ## Results
 
